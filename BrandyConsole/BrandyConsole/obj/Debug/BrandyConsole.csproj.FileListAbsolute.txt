@@ -1,0 +1,7 @@
+C:\Ajit\CSharp\BrandyConsole\BrandyConsole\obj\Debug\BrandyConsole.csprojAssemblyReference.cache
+C:\Ajit\CSharp\BrandyConsole\BrandyConsole\obj\Debug\BrandyConsole.csproj.CoreCompileInputs.cache
+C:\Ajit\CSharp\BrandyConsole\BrandyConsole\bin\Debug\BrandyConsole.exe.config
+C:\Ajit\CSharp\BrandyConsole\BrandyConsole\bin\Debug\BrandyConsole.exe
+C:\Ajit\CSharp\BrandyConsole\BrandyConsole\bin\Debug\BrandyConsole.pdb
+C:\Ajit\CSharp\BrandyConsole\BrandyConsole\obj\Debug\BrandyConsole.exe
+C:\Ajit\CSharp\BrandyConsole\BrandyConsole\obj\Debug\BrandyConsole.pdb
