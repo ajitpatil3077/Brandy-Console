@@ -8,5 +8,5 @@ Steps to execute program.
 3. Build the application, and run the application from MS Visual studio or double click "BrandyConsole.exe" (<projectpath>\bin\Debug).
   Note : If executing program using .exe you may change folder paths using "BrandyConsole.exe.config" file (<projectpath>\bin\Debug))
   
-4. The program is listening to the input folder, once the new input is placed in that input folder.The execution begins the generates output file named as GenerationOutput.xml
+4. The program is listening to the input folder, once the new input xml file is placed in that input folder.The execution begins the generates output file named as GenerationOutput.xml
 5. Verify the outputs based upon the rules specified in "Technical Task Description v1.1.docx"
